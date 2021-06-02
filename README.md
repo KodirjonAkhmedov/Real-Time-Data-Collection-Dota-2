@@ -1,4 +1,4 @@
-# Real-Time-Data-Collection-Python-Tool-from-Dota-2-MOBA-Game
+# Real-Time-Data-Collection-Dota-2
 
 ## General Description
 This repository is created as a part of the research of "Machine learning models for DOTA 2 outcomes prediction."
